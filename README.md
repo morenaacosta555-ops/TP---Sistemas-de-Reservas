@@ -81,6 +81,3 @@ Pendiente para la Entrega Final:
 - Nombre: Mia Acosta
 - Fecha de entrega parcial: 01/10/2026
 - Materia / Profesor: POO / Obregón
----
-
-Listo, así queda como texto plano. ¿Querés que ahora te arme el esqueleto del código en C# para alguna de las capas?
